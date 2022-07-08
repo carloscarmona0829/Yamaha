@@ -1,0 +1,17 @@
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\bin\Debug\net6.0\DAO.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\bin\Debug\net6.0\ref\DAO.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\bin\Debug\net6.0\DbAccess.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\bin\Debug\net6.0\Entities.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\bin\Debug\net6.0\DbAccess.pdb
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\bin\Debug\net6.0\Entities.pdb
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\DAO.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\ref\DAO.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DAO\obj\Debug\net6.0\DAO.pdb

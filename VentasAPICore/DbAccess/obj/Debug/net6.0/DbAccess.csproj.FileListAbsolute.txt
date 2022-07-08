@@ -1,0 +1,36 @@
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.deps.json
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\bin\Debug\net6.0\ref\DbAccess.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.pdb
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.csproj.AssemblyReference.cache
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.AssemblyInfoInputs.cache
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.AssemblyInfo.cs
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.csproj.CoreCompileInputs.cache
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\obj\Debug\net6.0\ref\DbAccess.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\refint\DbAccess.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\DbAccess\obj\Debug\net6.0\ref\DbAccess.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.deps.json
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\bin\Debug\net6.0\ref\DbAccess.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\bin\Debug\net6.0\DbAccess.pdb
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.csproj.AssemblyReference.cache
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.AssemblyInfoInputs.cache
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.AssemblyInfo.cs
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.csproj.CoreCompileInputs.cache
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\obj\Debug\net6.0\ref\DbAccess.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\DbAccess\obj\Debug\net6.0\DbAccess.pdb

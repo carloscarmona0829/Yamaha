@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8bb205a0-d4d5-42b7-8379-bf28c3b79ea9": {
+      "ProjectGuid": "8bb205a0-d4d5-42b7-8379-bf28c3b79ea9",
+      "DisplayName": "WebAPI",
+      "ColorIndex": 0
+    },
+    "884e2882-0f6a-4baa-aaee-9e495010b19a": {
+      "ProjectGuid": "884e2882-0f6a-4baa-aaee-9e495010b19a",
+      "DisplayName": "DbAccess",
+      "ColorIndex": 1
+    },
+    "785c2c5f-f199-4534-8016-146f3fda2dc2": {
+      "ProjectGuid": "785c2c5f-f199-4534-8016-146f3fda2dc2",
+      "DisplayName": "DA",
+      "ColorIndex": 2
+    },
+    "8097e7da-c6f2-4a8c-9fed-2530b8a3906c": {
+      "ProjectGuid": "8097e7da-c6f2-4a8c-9fed-2530b8a3906c",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    },
+    "1a414e0f-8c17-4b7c-8335-d0ac25ee0690": {
+      "ProjectGuid": "1a414e0f-8c17-4b7c-8335-d0ac25ee0690",
+      "DisplayName": "BR",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

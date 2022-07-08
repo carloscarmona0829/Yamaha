@@ -1,0 +1,36 @@
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\bin\Debug\net6.0\ref\Entities.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Carlos Carmona\Landers\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\Administrador\Documents\Visual Studio 2019\.NET-Projects\CatalogoAPICore\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\bin\Debug\net6.0\ref\Entities.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Carlos Carmona\Yamaha\CatalogoAPICore\Entities\obj\Debug\net6.0\Entities.pdb
